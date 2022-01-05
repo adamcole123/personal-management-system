@@ -1,8 +1,13 @@
-# personal-management-system
-This is my own personal management system for keeping track of important things
+# winston
 
-## Setup
-Create file called `.env` and enter the following details:
+Winston is a personal management system. It is used for prioritising tasks and doing them, whilst keeping track of other aspects of your life.
 
-	RABBITMQ_DEFAULT_USER=<username>
-	RABBITMQ_DEFAULT_PASS=<password>
+Roadmap (TDD is a requirement:
+- Define use cases
+- Define entities for those use cases
+- Build out the domain core of the application (Use cases and entities)
+- Build controllers and routes for the application (Using clean architecture)
+- Build out the database (This will just plug into the controllers)
+- Set up google authentication
+- Make wireframes for frontend
+...
