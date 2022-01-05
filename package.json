@@ -1,6 +1,22 @@
 {
-  "dependencies": {
-    "amqp-connection-manager": "^3.7.0",
-    "amqplib": "^0.8.0"
-  }
+  "name": "winston",
+  "version": "1.0.0",
+  "description": "A personal management system for optimising your workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamcole123/winston.git"
+  },
+  "keywords": [
+    "peronal-management-system"
+  ],
+  "author": "Adam Cole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamcole123/winston/issues"
+  },
+  "homepage": "https://github.com/adamcole123/winston#readme"
 }
