@@ -66,10 +66,7 @@ Winston is a personal management system. It is used for prioritising tasks and d
     - Password
     - Work length
     - Break length
-    - Created by
     - Created date
-    - Updated by
-    - Updated date
 
 # 4. Contributions
 
